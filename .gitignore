@@ -2,6 +2,10 @@
 logs
 *.log
 
+#intelliJ setting file
+.idea/
+*.iml
+
 # Runtime data
 pids
 *.pid
